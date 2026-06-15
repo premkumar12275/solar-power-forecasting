@@ -188,6 +188,4 @@ This project is part of an MS in Artificial Intelligence at the University of Te
 
 ## Author
 
-**Prem Kumar Katta**  
-Technical Lead, DNV — Smart Use of Data  
-[LinkedIn](https://linkedin.com/in/prem-kumar-katta-42b28a47) · [GitHub](https://github.com/premkumar12275)
+**Prem Kumar Katta** 
